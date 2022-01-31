@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kubilay242
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C#, R programming
 - 📫 How to reach me kubilay242@gmail.com, twitter/kubiguzel
 
